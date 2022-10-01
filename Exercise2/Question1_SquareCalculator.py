@@ -7,6 +7,7 @@
 
 # Copyright (C) 2022 Politeknik Mukah. All rights reserved
 
+# Now available on GitHub https://github.com/HashbieN/python_week6
 
 # START OF CODE
 
